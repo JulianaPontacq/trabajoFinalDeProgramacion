@@ -7,7 +7,7 @@ export class Dados extends Juego implements CalculadorDeGanancia {
     private apuesta: number
 
     constructor (pApuesta:number,pCreditoInicial: number, pCantidadDados: number, pNombreDeJuego:string) { //se heredan tres parametros.
-        super(pNombreDeJuego) // se llama al constructor de la clase base juego con los parametros heredados.
+        super(pNombreDeJuego, pCreditoInicial) // se llama al constructor de la clase base juego con los parametros heredados.
         this.cantidadDados = pCantidadDados= 2, //inicializo la cantidad de dados en 2 por defecto.
         this.creditoInicial = Math.floor(pCreditoInicial); // redondeo el credito inicial para adegurar que el numero sea entero.
         //this.nombreDeJuego = "Juego de Dados"; //asigno un nombre fijo al juego.
