@@ -2,7 +2,7 @@ import { Juego } from './Juego';
 
 export abstract class Tragamonedas extends Juego {
     public constructor(nombre: string) {
-        super (nombre); 
+        super (nombre, 0); 
     }
 
     public abstract getSimboloEspecial (): string;
