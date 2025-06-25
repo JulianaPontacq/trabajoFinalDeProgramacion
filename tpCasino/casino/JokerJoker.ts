@@ -99,14 +99,11 @@ export class JokerJoker extends Tragamonedas implements CalculadorDeGanancia {
         this.setResultado(ganancia);
     }
 
-    public calcularGanancia(): number {
+     public calcularGanancia(): number {
         //se buscan combinaciónes ganadoras y se almacenan sus ganancias correspondientes
         let ganancia = this.lecturaVertical();
-        console.log("ganancia en vertical: " + ganancia);
         ganancia += this.lecturaHorizontal();
-        console.log("ganancia en horizontal: " + ganancia);
         ganancia += this.lecturaDiagonal();
-        console.log("ganancia en diagonal: " + ganancia);
         return ganancia;
     }
 
