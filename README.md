@@ -209,7 +209,7 @@ Cada vez que el jugador completa una ronda en cualquiera de los juegos, la aplic
    - Node.js (versión recomendada: `16.x` o superior)  
    - TypeScript (`npm install -g typescript`)  
 3. Clonar o descargar este repositorio en el escritorio.  
-4. Abrir una terminal en la raíz del proyecto (`cd casino`).  
+4. Abrir una terminal en la raíz del proyecto (`cd tpCasino`) y luego (`cd casino`).  
 5. Ejecutar para compilar:
        tsc Ejecutable.ts
 7. Luego, iniciar la aplicación:
