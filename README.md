@@ -149,25 +149,25 @@ El jugador puede retirarse o seguir apostando después de la tercera ronda. Si e
 #### Joker Joker
 
 <p align="center">
-  <img src ="tpCasino/img/joker.png" alt = "Interfaz del tragamonedas Joker Joker" width="400"/>
+  <img src ="tpCasino/img/joker.png" alt = "Interfaz del tragamonedas Joker Joker" width="600"/>
 </p>
 
 #### Hot Hot
 
 <p align="center">
-  <img src = "tpCasino/img/hot.png" alt = "Interfaz del tragamonedas Hot Hot" width="400"/>
+  <img src = "tpCasino/img/hot.png" alt = "Interfaz del tragamonedas Hot Hot" width="600"/>
 </p>
 
 ### Ruleta
 
 <p align="center">
-  <img src = "tpCasino/img/ruleta.png" alt = "Interfaz del juego ruleta" width="400"/>
+  <img src = "tpCasino/img/ruleta.png" alt = "Interfaz del juego ruleta" width="600"/>
 </p>
 
 ### Dados
 
 <p align="center">
-  <img src = "tpCasino/img/dados.png" alt = "Interfaz del juego de dados" width="400"/>
+  <img src = "tpCasino/img/dados.png" alt = "Interfaz del juego de dados" width="600"/>
 </p>
 
 ### Historial de Jugadas
@@ -177,7 +177,7 @@ El jugador puede retirarse o seguir apostando después de la tercera ronda. Si e
 Cada vez que el jugador completa una ronda en cualquiera de los juegos, la aplicación guarda un registro detallado de la jugada en un archivo de texto llamado `historialDePartidas.txt`.
 
 <p align="center">
-  <img src = "tpCasino/img/historial.png" alt = "Ejemplo de historial de jugadas guardadas" width="400"/>
+  <img src = "tpCasino/img/historial.png" alt = "Ejemplo de historial de jugadas guardadas" width="600"/>
 </p>
 
 </div>
@@ -189,7 +189,7 @@ Cada vez que el jugador completa una ronda en cualquiera de los juegos, la aplic
 - **`Mensaje de Inicio y Operaciones Disponibles`**
 
 <p align="center">
-  <img src = "tpCasino/img/inicio.png" alt = "Pantalla de inicio del casino y opciones disponibles" width="400"/>
+  <img src = "tpCasino/img/inicio.png" alt = "Pantalla de inicio del casino y opciones disponibles" width="600"/>
 </p>
 
 ---
