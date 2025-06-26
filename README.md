@@ -15,7 +15,7 @@
 <div align="justify">
 
 **Código de la Suerte** es el nombre de una aplicación de apuestas desarrollada en TypeScript que contiene varios juegos de azar, permitiendo al jugador apostar y visualizar un historial completo de sus partidas en un archivo de texto.  
-El diseño de la aplicación se puede consultar en el [diagrama UML del sistema](https://app.diagrams.net/?splash=0#G1awZ5sVCmyGnaeYdpk_ljBQwW-8561OHN#%7B%22pageId%22%3A%22fSTtAVpaNRozygcU_-pb%22%7D).
+El diseño de la aplicación se puede consultar en el [diagrama UML del sistema](https://drive.google.com/file/d/1awZ5sVCmyGnaeYdpk_ljBQwW-8561OHN/view?usp=drive_link).
 
 </div>
 
