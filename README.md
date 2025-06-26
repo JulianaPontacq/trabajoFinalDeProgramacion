@@ -210,8 +210,10 @@ Cada vez que el jugador completa una ronda en cualquiera de los juegos, la aplic
    - TypeScript (`npm install -g typescript`)  
 3. Clonar o descargar este repositorio en el escritorio.  
 4. Abrir una terminal en la raíz del proyecto (`cd casino`).  
-5. Ejecutar para compilar:  
-6. Luego, iniciar la aplicación:  
+5. Ejecutar para compilar:
+       tsc Ejecutable.ts
+7. Luego, iniciar la aplicación:
+       node Ejecutable.js
 </div>
 
 ## Autores
