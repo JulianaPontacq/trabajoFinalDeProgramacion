@@ -200,34 +200,6 @@ Cada vez que el jugador completa una ronda en cualquiera de los juegos, la aplic
 
 ---
 
-## Ejemplo de Uso
-
-- **`Tragamonedas Joker`**
-
-<p align="center">
-  <img src="" alt="joker en uso" width="700"/>
-</p>
-
-- **`Tragamonedas Hot`**
-
-<p align="center">
-  <img src="" alt="hot en uso" width="700"/>
-</p>
-
-- **`Ruleta`**
-
-<p align="center">
-  <img src="" alt="ruleta en uso" width="700"/>
-</p>
-
-- **`Dados`**
-
-<p align="center">
-  <img src="" alt="dados en uso" width="700"/>
-</p>
-
----
-
 ## Tutorial de Instalación
 
 <div align="justify">
