@@ -82,7 +82,7 @@ Joker Joker es una variante de tragamonedas compuesta por 3 filas y 5 carretes, 
 
 <div align="justify">
 
-Hot Hot es una tragamonedas de 5 carretes y 3 filas que premia combinaciones de 3, 4 o 5 símbolos iguales en línea recta, tanto horizontal como verticalmente.
+Hot Hot es una tragamonedas de 5 carretes y 3 filas que premia combinaciones de 3, 4 o 5 símbolos iguales en línea recta, tanto horizontal como verticalmente. Si aparecen 3 símbolos especiales “free-spin” en línea, se activan 3 tiradas gratuitas, durante las cuales se pueden volver a obtener más tiradas. Las ganancias se acumulan a lo largo de todas las rondas hasta finalizar, momento en el que se aplica el multiplicador de apuesta.
 
 **Pagos Altos**
 
